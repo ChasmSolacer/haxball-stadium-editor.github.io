@@ -1,8 +1,8 @@
-<h1 id="title" align="center">Haxball Stadium Editor</h1>
+<h1 id="title" style="text-align: center;">Haxball Stadium Editor</h1>
 
-<h4 align="center">https://haxball-stadium-editor.github.io</h4>
+<h4 style="text-align: center;">https://haxball-stadium-editor.github.io</h4>
 
-<h4 align="center">Tool for creating and editing haxball maps (.hbs). It let you use all new features added in latest <a href="https://www.haxball.com/play">HaxBall</a> updates - <a href="https://github.com/haxball/haxball-issues/wiki/Stadium-(.hbs)-File">HaxBall .hbs file wiki</a> </h4>
+<h4 style="text-align: center;">Tool for creating and editing haxball maps (.hbs). It let you use all new features added in latest <a href="https://www.haxball.com/play">HaxBall</a> updates - <a href="https://github.com/haxball/haxball-issues/wiki/Stadium-(.hbs)-File">HaxBall .hbs file wiki</a> </h4>
 
 ### Content:
 
@@ -66,7 +66,7 @@ Text area, where you can directly change your stadium JSON file, download the .h
 - Goto Character - this function is currently under development
 - Copy All - copy all the text area
 - Download .hbs file - your stadium is converted to .hbs file, so you can load it in Haxball
-- Upload .hbs file - loads the existing stadium from your computer. You can find them at [HaxMaps](https://haxmaps.com/) or in folder [sample stadiums](https://github.com/haxball-stadium-editor/haxball-stadium-editor.github.io/tree/master/sample%20stadiums)
+- Upload .hbs file - loads the existing stadium from your computer. You can find them at [HaxMaps](https://haxmaps.com/), [Haxmods](https://haxmods.com/maps/) or in the [sample stadiums](https://github.com/haxball-stadium-editor/haxball-stadium-editor.github.io/tree/master/sample%20stadiums) folder
 
 ---
 
@@ -74,7 +74,7 @@ Text area, where you can directly change your stadium JSON file, download the .h
 
 ![properties tab](https://user-images.githubusercontent.com/103112562/212548576-f4718d66-3ccf-4283-a31d-0d8791e80862.png)
 
-Modify your stadium just like you want. Every property has a built-in error checker, so if you enter a wrong value, it will switch back to previous one. Read more about the stadium properties [HERE](https://github.com/haxball/haxball-issues/wiki/Stadium-(.hbs)-File)
+Modify your stadium just like you want. Every property has a built-in error checker, so if you enter a wrong value, it will switch back to previous one. Read more about the stadium properties on the [.hbs file wiki page](https://github.com/haxball/haxball-issues/wiki/Stadium-(.hbs)-File).
 
 ---
 
